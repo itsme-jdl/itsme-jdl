@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anurag! <br/><a href="https://github.com/itsme-jdl">Student</a>, <a href="https://www.linkedin.com/in/a-nu-rag/">Tech Enthusiast</a>,
+<h1>Hi, I'm Anurag! <br/><a href="https://github.com/itsme-jdl">Student</a>, <a href="https://www.linkedin.com/in/a-nu-rag/">Tech enthusiast</a>
 </h1>
 
 <h2>👨‍💻 Projects:</h2>
