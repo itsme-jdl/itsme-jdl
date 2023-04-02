@@ -6,15 +6,15 @@
 - <b>Python</b>
   - [Keylogger](https://github.com/itsme-jdl/Kelogger)
 
-- <b>Web Landing Pages</b>
-  - [Portfolio](https://github.com/a-nu-rag/Portfolio)
-  - [Apna Dhaba](https://github.com/a-nu-rag/apna-dhaba)
- 
 - <b> Javascript </b>
   - [Color Game](https://github.com/a-nu-rag/Colour-Game)
   - [Patatap](https://github.com/a-nu-rag/Patatap)
   - [Todo list](https://github.com/itsme-jdl/todo)
 
+- <b>Web Landing Pages</b>
+  - [Portfolio](https://github.com/a-nu-rag/Portfolio)
+  - [Apna Dhaba](https://github.com/a-nu-rag/apna-dhaba)
+  
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
