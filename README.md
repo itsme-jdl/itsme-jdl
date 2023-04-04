@@ -42,9 +42,9 @@
 
 <h2> 📝 Certifications </h2>
 
-  - [AZ-900](https://www.credly.com/earner/earned/badge/30dfd5d1-f38c-4fd8-b9d2-7a4758d56779)
-  - [AI-900](https://www.credly.com/earner/earned/badge/c316526d-f76d-409a-b662-6833ef55ab4a)
-  - [SC-900](https://www.credly.com/earner/earned/badge/3d4ed378-7275-4e29-be6c-abe247d4a491)
+  - [Microsoft Azure (AZ-900)](https://www.credly.com/earner/earned/badge/30dfd5d1-f38c-4fd8-b9d2-7a4758d56779)
+  - [Microsoft Azure (AI-900)](https://www.credly.com/earner/earned/badge/c316526d-f76d-409a-b662-6833ef55ab4a)
+  - [Microsoft Azure (SC-900)](https://www.credly.com/earner/earned/badge/3d4ed378-7275-4e29-be6c-abe247d4a491)
   - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB853E6DCDF5BC6020EB935D220FF550407B2BBEED5125A4AD6AE5B4CBDED538)
   - [Foundations of Opertionalizing MITRE ATT&CK](https://www.credly.com/earner/earned/badge/d0c42382-7639-4951-8f28-ee3e6d301d6b)
   - [Intro To Cyber Security (by CISCO)](https://www.credly.com/earner/earned/badge/a4a18d03-db6a-48b4-8377-ff627171a71b)
