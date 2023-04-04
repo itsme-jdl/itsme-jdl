@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Cyber Security</b>
+- <b> Cyber Security </b>
   - [Keylogger](https://github.com/itsme-jdl/Kelogger)
   - [Simple CTF](https://github.com/itsme-jdl/Simple_ctf)
 
