@@ -3,8 +3,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Python</b>
+- <b>Security</b>
   - [Keylogger](https://github.com/itsme-jdl/Kelogger)
+  - [Simple CTF](https://github.com/itsme-jdl/Simple_ctf)
 
 - <b> Javascript </b>
   - [Color Game](https://github.com/a-nu-rag/Colour-Game)
@@ -14,6 +15,8 @@
 - <b>Web Landing Pages</b>
   - [Portfolio](https://github.com/a-nu-rag/Portfolio)
   - [Apna Dhaba](https://github.com/a-nu-rag/apna-dhaba)
+
+
   
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
