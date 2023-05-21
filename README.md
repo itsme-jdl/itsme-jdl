@@ -4,6 +4,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Cyber Security </b>
+  - [Active Directory Administration Lab](https://medium.com/@jdl_/active-directory-administration-99d6ca3011b0)
+  - [Vulnerability Assessment Lab](https://medium.com/@jdl_/home-vulnerability-assessment-lab-841554e915e)
   - [Keylogger](https://github.com/itsme-jdl/Kelogger)
   - [Simple CTF](https://github.com/itsme-jdl/Simple_ctf)
 
@@ -37,7 +39,6 @@
   - [The Art of Human Deception](https://medium.com/@jdl_/the-art-of-human-deception-330656328b25)
   - [Cyber Underground & Dark Markets](https://medium.com/@jdl_/cyber-underground-dark-markets-2e2fa0602833)
   - [How Passive Information Gathering can save your time during a Pentest](https://systemweakness.com/how-passive-information-gathering-can-save-your-time-during-pentesting-1b810df540b3)
-  - [Setting Up Vulnerability Assessment Lab](https://medium.com/@jdl_/home-vulnerability-assessment-lab-841554e915e)
   - [How I passed AZ-900 in just 17 minutes](https://medium.com/@jdl_/how-i-passed-az-900-in-just-17-minutes-656ffd87fe7a)
   - [How I passed SC-900 in a weekend](https://medium.com/@jdl_/how-i-passed-sc-900-in-just-a-weekend-40f95605e688)
 
