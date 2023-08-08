@@ -4,6 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Cyber Security </b>
+  - [Setting Up Your Honeypot](https://medium.com/@jdl_/setting-up-your-own-honeypot-b655958c9a99)
   - [Active Directory Administration Lab](https://medium.com/@jdl_/active-directory-administration-99d6ca3011b0)
   - [Vulnerability Assessment Lab](https://medium.com/@jdl_/home-vulnerability-assessment-lab-841554e915e)
   - [Keylogger](https://github.com/itsme-jdl/Kelogger)
@@ -44,6 +45,7 @@
 
 <h2> 📝 Certifications </h2>
 
+  - [Oracle Cloud Infrastructure 2023 Certified Architect Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6AEDEB16B97EF3C9CDBDDCC571700E451183BC083F763178BF49CD20F3C939D5)
   - [Microsoft Azure (AZ-900)](https://www.credly.com/earner/earned/badge/30dfd5d1-f38c-4fd8-b9d2-7a4758d56779)
   - [Microsoft Azure (AI-900)](https://www.credly.com/earner/earned/badge/c316526d-f76d-409a-b662-6833ef55ab4a)
   - [Microsoft Azure (SC-900)](https://www.credly.com/earner/earned/badge/3d4ed378-7275-4e29-be6c-abe247d4a491)
